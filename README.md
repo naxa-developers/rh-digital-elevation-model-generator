@@ -58,10 +58,11 @@ You can include additional arguments to customize the behavior of the script:
 # How to cite?
 This is part of research project "Dense Urban Area Mapping" by Nishon Tandukar. 
 If you use this code please cite. 
-
+```
 @misc{naxa_rh_dem,
   author = {Nishon Tandukar},
   title = {RH Digital Elevation Model Generator},
   howpublished = {\url{https://github.com/naxa-developers/rh-digital-elevation-model-generator}},
   note = {Accessed: 2024-11-18}
 }
+```
