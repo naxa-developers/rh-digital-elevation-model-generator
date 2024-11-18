@@ -53,3 +53,15 @@ You can include additional arguments to customize the behavior of the script:
 | `--window_size`     | `512`        | Define the size of the sliding window (in pixels).                 |
 | `--overlap`         | `0.7`        | Set overlap ratio between patches (0 to 1).                       |
 | `--show_output`     | `False`      | Add this flag to visualize the orthophoto and depth map side-by-side.|
+
+
+# How to cite?
+This is part of research project "Dense Urban Area Mapping" by Nishon Tandukar. 
+If you use this code please cite. 
+
+@misc{naxa_rh_dem,
+  author = {Nishon Tandukar},
+  title = {RH Digital Elevation Model Generator},
+  howpublished = {\url{https://github.com/naxa-developers/rh-digital-elevation-model-generator}},
+  note = {Accessed: 2024-11-18}
+}
