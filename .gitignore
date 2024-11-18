@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Conda
+environment.yml
+
+# Logs
+*.log
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# RasterIO auxiliary files
+*.aux.xml
+
+# Large files and temporary directories
+data/orthophoto/
+data/dem/
+*.tif
